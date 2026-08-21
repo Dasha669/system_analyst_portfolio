@@ -58,7 +58,8 @@
 | Система (1С + aCRM) | Проверить корректность данных |
 | Система (1С + aCRM) | Отправить уведомление об успехе/ошибке |
 
-<img width="906" height="273" alt="Pet-project drawio" src="https://github.com/user-attachments/assets/598ff8b0-75b6-42bd-87c9-8712ef88c41d" />
+<img width="488" height="262" alt="UC 1 pet-projrct drawio" src="https://github.com/user-attachments/assets/b9f15525-d2ca-431a-8068-c3375ea41518" />
+
 
 ---
 
